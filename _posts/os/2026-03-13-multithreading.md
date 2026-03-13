@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "📘 Multthreading"
+title: "📘 Multithreading"
 toc: true
 toc_sticky: true
 toc_label: "목차"
 categories: os
-excerpt: "Multthreading : 성능 최적화"
+excerpt: "Multithreading : 성능 최적화"
 tag: [os]
 ---
 

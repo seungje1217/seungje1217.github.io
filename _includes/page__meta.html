@@ -1,12 +1,11 @@
 {% assign document = post | default: page %}
-{% if document.show_date and document.date %}
+{% if document.date %}
 <p class="page__meta">
-  {% assign date = document.date %}
   <span class="page__meta-date">
     <i class="far fa-calendar-alt" aria-hidden="true"></i>
-    {% assign date_format = site.date_format | default: "%Y-%m-%d" %}
-    <time datetime="{{ date | date_to_xmlschema }}">
-      {{ date | date: date_format }}
+    {% assign date_format = "%Y-%m-%d" %}
+    <time datetime="{{ document.date | date_to_xmlschema }}">
+      {{ document.date | date: date_format }}
     </time>
   </span>
 </p>
