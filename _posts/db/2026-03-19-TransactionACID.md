@@ -133,7 +133,11 @@ COMMIT이 끝나면 서버 꺼져도, DB 터져도 데이터는 남아 있어야
 여러 트랜잭션이 동시에 처리될 때, 특정 트랜잭션이 다른 트랜잭션에서 변경하거나 조회하는 데이터를 볼 수 있게 허용할지 여부를 결정하는 것이다.
 <br/><br/>
 
-![image](/assets/images/db/Isolation.png)
+<p align="center">
+  <img src="/assets/images/db/Isolation.png" style="width:60%;">
+</p>
+
+<p align="center"><em>격리 수준 4단계 구조</em></p>
 
 사진을 보면 위에서부터 READ-UNCOMMITTED, READ-COMMITTED, REPEATABLE-READ, SERIALIZABLE 총 4가지가 존재한다.<br/>
 위로 올라갈 수록 속도는 빨라지지만 데이터의 일관성을 보장하지 못하고, 아래로 내려올수록 트랜잭션을 순차적으로 처리하므로 속도는 느려지지만, 데이터의 일관성을 보장할 수 있다는데 자세히 알아보자.
