@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "목차"
 categories: network
-excerpt: "📘 도메인은 어떻게 IP로 바뀌고, 왜 CDN을 사용할까?"
+excerpt: "📘 도메인에서 IP? CDN?"
 tag: [network, dns, cdn]
 ---
 

@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "목차"
 categories: network
-excerpt: "📘 IP 주소는 어떻게 나뉘고, 왜 부족해졌을까?"
+excerpt: "📘 IP 주소는 왜 부족할까..."
 tag: [network, ip, subnet, nat]
 ---
 
