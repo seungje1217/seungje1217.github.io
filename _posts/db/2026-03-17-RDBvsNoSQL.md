@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "📘 RDB vs NoSQL"
+title: "💾 RDB vs NoSQL"
 toc: true
 toc_sticky: true
 toc_label: "목차"

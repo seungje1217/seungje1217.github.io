@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "📘 Styled Components..."
+title: "🚀 Styled Components..."
 toc: true
 toc_sticky: true
 toc_label: "목차"

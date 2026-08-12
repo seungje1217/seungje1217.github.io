@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "📘 JS의 변수 선언"
+title: "💻 JS의 변수 선언"
 toc: true
 toc_sticky: true
 toc_label: "목차"

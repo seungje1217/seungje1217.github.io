@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "📘 Get과 Post..."
+title: "🌐 Get과 Post..."
 toc: true
 toc_sticky: true
 toc_label: "목차"

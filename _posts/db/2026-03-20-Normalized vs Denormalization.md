@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "📘 정규화 vs 반정규화"
+title: "💾 정규화 vs 반정규화"
 toc: true
 toc_sticky: true
 toc_label: "목차"
 categories: db
-excerpt: "📘 데이터 정규화와 반정규화, 언제 무엇을 선택해야 할까.."
+excerpt: "데이터 정규화와 반정규화, 언제 무엇을 선택해야 할까.."
 tag: [db, normalization, denormalization]
 ---
 

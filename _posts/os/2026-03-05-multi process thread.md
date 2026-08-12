@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "📘 Multi Process && Multi Thread"
+title: "⚙️ Multi Process && Multi Thread"
 toc: true
 toc_sticky: true
 toc_label: "목차"

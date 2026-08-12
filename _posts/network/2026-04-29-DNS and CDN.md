@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "📘 DNS와 CDN"
+title: "🛠️ DNS와 CDN"
 toc: true
 toc_sticky: true
 toc_label: "목차"
 categories: network
-excerpt: "📘 도메인에서 IP? CDN?"
+excerpt: "도메인에서 IP? CDN?"
 tag: [network, dns, cdn]
 ---
 

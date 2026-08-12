@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "📘 트랜잭션과 ACID"
+title: "💾 트랜잭션과 ACID"
 toc: true
 toc_sticky: true
 toc_label: "목차"
 categories: db
-excerpt: "📘 트랜잭션과 ACID, DB가 망가지지 않는 이유"
+excerpt: "트랜잭션과 ACID, DB가 망가지지 않는 이유"
 tag: [db, transaction, acid]
 ---
 

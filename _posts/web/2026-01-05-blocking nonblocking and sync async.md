@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "📘 블로킹/논블로킹 및 동기/비동기"
+title: "🌐 블로킹/논블로킹 및 동기/비동기"
 toc: true
 toc_sticky: true
 toc_label: "목차"

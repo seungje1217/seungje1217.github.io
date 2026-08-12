@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "📘 IP 주소체계와 서브네팅, NAT"
+title: "🛠️ IP 주소체계와 서브네팅, NAT"
 toc: true
 toc_sticky: true
 toc_label: "목차"
 categories: network
-excerpt: "📘 IP 주소는 왜 부족할까..."
+excerpt: "IP 주소는 왜 부족할까..."
 tag: [network, ip, subnet, nat]
 ---
 

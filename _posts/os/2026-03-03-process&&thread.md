@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "📘 Process && Thread"
+title: "⚙️ Process && Thread"
 toc: true
 toc_sticky: true
 toc_label: "목차"
